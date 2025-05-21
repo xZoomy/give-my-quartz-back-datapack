@@ -2,6 +2,8 @@
 
 Minecraft Datapack to uncraft quartz back from blocks
 
+[Modrinth](https://modrinth.com/datapack/give-my-quartz-back)
+
 ## Feature
 - Convert quartz blocks into quartz
 - Give 4 quartz for each block
